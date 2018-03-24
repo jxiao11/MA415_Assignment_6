@@ -57,11 +57,12 @@ ggmap(m_w) +
 include_graphics("water_color.jpeg")
 ```
 
+\newpage
 # Summerleaze Beach
 Located within easy walking distance of Bude town centre Summerleaze is a popular beach. It also has a large breakwater complete with tower protecting a small harbour and the mouth of the Bude canal with its massive lock gates. On the opposite side of the beach there's a sea-water bathing pool making for safe bathing whatever the conditions. Backing onto the beach are grassy downs and the River Neet.
 
 [Moreinfo.](https://www.cornwall-beaches.co.uk/north-cornwall/summerleaze.htm)
-```{r echo=FALSE,fig.height=8,fig.width=8, fig.align = "center"}
+```{r echo=FALSE,fig.height=6,fig.width=6, fig.align = "center", out.width = "60%"}
 include_graphics("summerleaze.jpg")
 ```
 
@@ -71,15 +72,15 @@ A popular family beach with plenty of facilities, Crooklets can get a little bus
 
 [Moreinfo.](https://www.cornwall-beaches.co.uk/north-cornwall/crooklets.htm)
 
-```{r echo=FALSE, fig.height=8,fig.width=8, fig.align = "center",out.width = "75%"}
+```{r echo=FALSE, fig.height=6,fig.width=6, fig.align = "center", out.width = "60%"}
 include_graphics("crooklets.jpg")
 ```
-
+\newpage
 # Cricket Ground -- Bude North Cornwall Cricket Club
 Bude North Cornwall Cricket Club is situated on the clifftops overlooking the Atlantic Ocean, and is quite simply one of the most stunning locations you could ever wish to visit, let alone play cricket at! 
 [MoreInfo.](http://budecc.play-cricket.com/)
 
-```{r echo=FALSE, fig.height=8,fig.width=8, fig.align = "center",out.width = "75%"}
+```{r echo=FALSE, fig.height=6,fig.width=6, fig.align = "center", out.width = "60%"}
 include_graphics("cricket.png")
 ```
 
@@ -87,7 +88,7 @@ include_graphics("cricket.png")
 The Barrel at Bude is the second micropub to open in Cornwall and is the first in the north of the county. Its premises is in one of the oldest cottages and at the very heart in this popular North Cornwall seaside town. They only sell craft ales which they directly source from small independent Cornish brewers as well as two craft ales on tap including popular and well sought after craft brewers such as Verdant, Black Flag, Harbour and Firebrand. Snacks are also Cornish with Cornish Pasty crisps and Cornish Charcuterie salami; pig sticks! Opening hours are Thursday 4pm – 9pm, Friday, 4pm – 10pm, Saturday, 1pm – 9pm and Sunday 1pm-4pm.
 
 [MoreInfo.](http://www.micropubassociation.co.uk/micropubs/the-barrel-at-bude/)
-```{r echo=FALSE, fig.height=8,fig.width=8, fig.align = "center", out.width = "75%"}
+```{r echo=FALSE, fig.height=6,fig.width=6, fig.align = "center", out.width = "60%"}
 include_graphics("pub.jpg")
 ```
 
